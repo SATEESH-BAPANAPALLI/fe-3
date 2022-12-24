@@ -1,0 +1,340 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+/* sign up */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.signup{
+    position: absolute;
+    width: 1728px;
+    height: 1117px;
+    left: 0px;
+    top: 0px;
+
+    background: #000000;
+}
+
+.signup .header-bar {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1728px;
+    height: 87px;
+    left: 0px;
+    top: 0px;
+
+    background: #000000;
+    border-bottom: 2px solid #FFFFFF;
+}
+
+.signup .header {
+    position: absolute;
+    width: 83px;
+    height: 29px;
+    left: 38px;
+    top: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.signup .signup-profile {
+    position: absolute;
+    width: 196px;
+    height: 29px;
+    left: 1507px;
+    top: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+
+.signup-group {
+    position: absolute;
+    width: 600px;
+    height: 144px;
+    left: 260px;
+    top: 233px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+
+    color: #FFFFFF;
+}
+
+.fullname-group {
+    position: absolute;
+    width: 112px;
+    height: 29px;
+    left: 260px;
+    top: 357px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.email-group {
+    position: absolute;
+    width: 60px;
+    height: 29px;
+    left: 260px;
+    top: 431px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+
+.password-group {
+    position: absolute;
+    width: 109px;
+    height: 29px;
+    left: 260px;
+    top: 505px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.confirm-group{
+    position: absolute;
+    width: 244px;
+    height: 29px;
+    left: 260px;
+    top: 579px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+
+.signup-button {
+    position: absolute;
+    width: 226px;
+    height: 58px;
+    left: 260px;
+    top: 806px;
+
+    background: #FFFFFF;
+}
+
+.signup-button button{
+    position: absolute;
+    width: 81px;
+    height: 33px;
+    left: 328px;
+    top: 818px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+}
+
+
+
+
+
+
+
+
+
+
+/* profile */
+
+.profile {
+    position: absolute;
+    width: 1728px;
+    height: 1117px;
+    left: 0px;
+    top: 0px;
+
+    background: #000000;
+}
+
+.header-bar {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1728px;
+    height: 87px;
+    left: 0px;
+    top: 0px;
+
+    background: #000000;
+    border-bottom: 2px solid #FFFFFF;
+}
+
+.header {
+    position: absolute;
+    width: 83px;
+    height: 29px;
+    left: 38px;
+    top: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.signup-profile {
+    position: absolute;
+    width: 196px;
+    height: 29px;
+    left: 1507px;
+    top: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.group-profile {
+    position: absolute;
+    width: 600px;
+    height: 144px;
+    left: 52px;
+    top: 176px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+
+    color: #FFFFFF;
+}
+
+.group-fullname {
+    position: absolute;
+    width: 600px;
+    height: 144px;
+    left: 52px;
+    top: 320px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+
+    color: #FFFFFF;
+}
+
+.group-email {
+    position: absolute;
+    width: 600px;
+    height: 144px;
+    left: 52px;
+    top: 438px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+
+    color: #FFFFFF;
+}
+
+.group-password {
+    position: absolute;
+    width: 600px;
+    height: 144px;
+    left: 52px;
+    top: 559px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+
+    color: #FFFFFF;
+}
+
+.btn {
+    position: absolute;
+    width: 226px;
+    height: 58px;
+    left: 52px;
+    top: 703px;
+    background: #FFFFFF;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    position: absolute;
+    width: 81px;
+    height: 33px;
+    left: 120px;
+    top: 715px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+}
+
